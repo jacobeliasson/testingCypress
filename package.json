@@ -1,0 +1,15 @@
+{
+  "name": "cypresstutorial",
+  "version": "1.0.0",
+  "description": "learning to use cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+    ,"cypress:open": "cypress open"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jacob",
+  "license": "ISC"
+}
